@@ -1,0 +1,4 @@
+Executable File  2 lines (2 sloc)  37 Bytes
+
+#!/bin/bash
+tail -n 1 iacta >> iacta
